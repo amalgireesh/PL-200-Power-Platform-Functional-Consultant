@@ -71,7 +71,7 @@ goal is to have a list of data from an entity.
 
 9.  Your app should open in the designer. (You may get a few pop-ups first; close them.) In the white space, click the **connect to data** link.
 
-10. Select **Data** from the left bar. From the list of entities, select **Accounts.** 
+10. From the list of entities, select **Accounts.** 
 
 10. Add a header to your app by selecting the **+** button (the Insert button) on the left tab and selecting **Text label.** Use the pane on the right side of the screen to enter **Fabrikam Accounts** in the **Text** field. You can edit the size, font, and other attributes to customize the look and feel of the application.
 
