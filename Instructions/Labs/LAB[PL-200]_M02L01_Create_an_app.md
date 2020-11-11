@@ -180,34 +180,32 @@ the upcoming canvas app module.
 Part of making a good app is giving it a personality. We are going to keep
 things simple here and just add a basic header to the app.
 
-1.  Select the **Insert** tab at the top of the screen.
+1.  Select the **Insert** tab from the top menu and click **Label**.
 
-2.  Click **Text Label**.
+2.  A label will be added to the screen. Select the label.
 
-3.  A label will be added to the screen. Select the label.
-
-4.  Rename the label **headerLabel** by clicking the edit button in the control
+3.  Rename the label **headerLabel** by clicking the edit button in the control
     tree on the left side of the screen in Tree View.
 
-6.  Change the **Font Size** to **28.**
+4.  Change the **Font Size** to **28.**
 
-7.  Click **Color** and change color to **White**.
+5.  Click **Color** and change color to **White**.
 
-8.  Click **Text Alignment** and select **Center**.
+6.  Click **Text Alignment** and select **Center**.
 
-9.  Click **Fill** from the top menu and change the **Fill Color** to **Blue**.
+7.  Click **Fill** from the top menu and change the **Fill Color** to **Blue**.
 
-10. Locate the **Position** section on the Properties window.
+8. Locate the **Position** section on the Properties window.
 
-11. Enter **0** for **Y** and **0** for **X**.
+9. Enter **0** for **Y** and **0** for **X**.
 
-12. Locate the **Size** section.
+10. Locate the **Size** section.
 
-13. Enter **1365** for **Width** and **60** for **Height**.
+11. Enter **1365** for **Width** and **60** for **Height**.
 
-14. Double click on the **Text** of the label.
+12. Double click on the **Text** of the label.
 
-15. Replace **Text** with **Fabrikam Assessment**.
+13. Replace **Text** with **Fabrikam Assessment**.
 
 ### Task 3 – Add User Name to the Header
 
